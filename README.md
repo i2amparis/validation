@@ -8,6 +8,8 @@ The app is built in Python and Streamlit and will be eventually integrated in I2
 
 The app is currently deployed in: https://validation.i2am-paris.eu.
 
+The development of the app was partly funded by the Horizon Europe [IAM COMPACT](https://www.iam-compact.eu) project (grant agreement No [101056306](https://cordis.europa.eu/project/id/101056306)) and the Horizon Europe [DIAMOND](https://climate-diamond.eu) project (grant agreement No [101081179](https://cordis.europa.eu/project/id/101081179)).
+
 ## Installation
 
 To run the Streamlit app locally:
